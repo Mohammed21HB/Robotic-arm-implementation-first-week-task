@@ -1,5 +1,7 @@
 # Robotic-arm-implementation-first-week-task
-the final shape after implementing the robot arm
+brief: the program used to assembly the robot arm is Cinema 4d and the file is STL. the program cost me several hours to learn how to use it since this is my first time, and less than one hour to implemnting after gaining some experience in Cinema 4d.
+
+
 Implementation instruction:
 
 1- insert the base and start combining on it.
@@ -14,4 +16,4 @@ Implementation instruction:
 
 6- finally make sure to fix any joint in each step.
 
-brief: the program used to assembly the robot arm is Cinema 4d and the file is STL. the program cost me several hours to learn how to use it since this is my first time, and less than one hour to implemnting after gaining some experience in Cinema 4d.
+
